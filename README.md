@@ -1,4 +1,4 @@
-# hexschool_css
+# hexschool-css
 - CSS practice from Hexschool front end project
 - Click here for [Demo](https://vu3xk41997.github.io/hexschool_css/)
 
